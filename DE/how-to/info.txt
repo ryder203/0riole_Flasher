@@ -3,13 +3,15 @@
 
 1) Downloade die aktuellen Platform Tools von Google und verschiebe die Dateien in C:\platform-tools\ ► https://developer.android.com/studio/releases/platform-tools
 2) Downloade das aktuelle Factory Image Paket für dein Pixel 6 ► https://developers.google.com/android/images
-3) Extrahiere, kopiere, und benenne die Dateien um, sodass das Ergebnis so ist wie im how-to Screenshot (das boot.img muss auf dem Pixel 6 gepatcht werden mit Magisk) 
-4) Entwickleroptionen und USB-Debugging (ADB) müssen in Android aktiviert sein 
-5) Das Pixel 6 muss in normalem Betrieb laufen, ADB Erlaubnis erteilt, Gerät via USB am PC
-6) Starte den 0riole_Flasher.exe (möglicherweise alarmiert dich fälschlicherweise dein Virenschutz auf dem PC - ein false positive)*
-7) Warte bis du "All done... Press any key to exit..." in der Konsole lesen kannst (das Pixel 6 startet mehrmals neu)
+3) Extrahiere und kopiere die Dateien so, dass das Ergebnis so ist wie im how-to Screenshot¹
+4) Extrahiere das boot.img, patche es auf dem Pixel 6 und kopiere die Datei so, dass das Ergebnis so ist wie im how-to Screenshot¹ (verwende min. Magisk canary 23016)
+5) Entwickleroptionen und USB-Debugging (ADB) müssen in Android aktiviert sein 
+6) Das Pixel 6 muss in normalem Betrieb laufen, ADB Erlaubnis erteilt, Gerät via USB am PC angeschlossen
+7) Starte den 0riole_Flasher.exe (möglicherweise alarmiert dich fälschlicherweise dein Virenschutz auf dem PC - ein false positive)²
+8) Warte bis du "All done... Press any key to exit..." in der Konsole lesen kannst (das Pixel 6 startet mehrmals neu)
 
 
 ryder203 - 2021 - https://t-ryder.de
 
-*Die ausführbare Datei ist nur ein kleines kompiliertes Batch-Skript
+¹ Die Dateien nicht umbenennen wie bei 0riole-Flasher v1
+² Die ausführbare Datei ist nur ein kleines kompiliertes Batch-Skript
