@@ -7,7 +7,7 @@
 4) Extract the boot.img, patch it on your device (use min. Magisk canary 23016) and copy the file as seen in the included screenshot¹
 5) Make sure ADB is enabled in system settings / developer options of your Pixel 6
 6) Make sure the system is booted, running and connected to the PC via USB
-7) Run 0riole_Flasher_v2.exe (you may get a false positive from your antivirus)²
+7) Run 0riole-Flasher_v3.exe (you may get a false positive from your antivirus)²
 8) Wait until you read "All done... Press any key to exit..." (the device reboots various times)
 
 

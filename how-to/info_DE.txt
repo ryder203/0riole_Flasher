@@ -7,7 +7,7 @@
 4) Extrahiere das boot.img, patche es auf dem Pixel 6 und kopiere die Datei so, dass das Ergebnis so ist wie im how-to Screenshot¹ (verwende min. Magisk canary 23016)
 5) Entwickleroptionen und USB-Debugging (ADB) müssen in Android aktiviert sein 
 6) Das Pixel 6 muss in normalem Betrieb laufen, ADB Erlaubnis erteilt, Gerät via USB am PC angeschlossen
-7) Starte 0riole-Flasher_v2.exe (möglicherweise alarmiert dich fälschlicherweise dein Virenschutz auf dem PC - ein false positive)²
+7) Starte 0riole-Flasher_v3.exe (möglicherweise alarmiert dich fälschlicherweise dein Virenschutz auf dem PC - ein false positive)²
 8) Warte bis du "All done... Press any key to exit..." in der Konsole lesen kannst (das Pixel 6 startet mehrmals neu)
 
 
