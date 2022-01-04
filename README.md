@@ -1,8 +1,8 @@
 # 0riole-Flasher
-Updater for Magisk rooted Pixel 6 devcies
-
 
 0riole-Flasher - for updating your Magisk rooted Pixel 6
+
+THIS SOFTWARE COMES WITHOUT WARRANTY AND MAY TRIGGER YOUR ANTIVIRUS FALSELY!
 
 1) Download latest platform tools from Google and put them in C:\platform-tools\ ► https://developer.android.com/studio/releases/platform-tools
 2) Download latest factory image package for your Pixel 6 from Google ► https://developers.google.com/android/images
